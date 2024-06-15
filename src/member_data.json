@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 25,
+        "level": "Beginner",
+        "phone": "1234567890",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 30,
+        "level": "Intermediate",
+        "phone": "9876543210",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "age": 35,
+        "level": "Advanced",
+        "phone": "5555555555",
+        "email": "alice.johnson@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Bob Williams",
+        "age": 40,
+        "level": "Expert",
+        "phone": "9999999999",
+        "email": "bob.williams@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Sarah Davis",
+        "age": 27,
+        "level": "Beginner",
+        "phone": "1111111111",
+        "email": "sarah.davis@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Michael Brown",
+        "age": 32,
+        "level": "Intermediate",
+        "phone": "2222222222",
+        "email": "michael.brown@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Emily Wilson",
+        "age": 29,
+        "level": "Advanced",
+        "phone": "3333333333",
+        "email": "emily.wilson@example.com"
+    },
+    {
+        "id": 8,
+        "name": "David Taylor",
+        "age": 37,
+        "level": "Expert",
+        "phone": "4444444444",
+        "email": "david.taylor@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Olivia Anderson",
+        "age": 31,
+        "level": "Beginner",
+        "phone": "6666666666",
+        "email": "olivia.anderson@example.com"
+    },
+    {
+        "id": 10,
+        "name": "James Martinez",
+        "age": 33,
+        "level": "Intermediate",
+        "phone": "7777777777",
+        "email": "james.martinez@example.com"
+    }
+]
