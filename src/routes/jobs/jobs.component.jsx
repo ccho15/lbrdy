@@ -2,21 +2,16 @@ import React from 'react';
 import { useContext } from 'react';
 
 import { JobsContext } from '../../contexts/jobs.context';
-import { MembersContext } from '../../contexts/members.context';
+import CollapsibleTable from '../../components/jobs-list/jobs-list.component';
 
 
 const Jobs = () => {
     const { jobs } = useContext(JobsContext);
-    const { members } = useContext(MembersContext);
     console.log(jobs);
     return (
         <div>
             <h1>Jobs Page</h1>
-            <ul>
-                {jobs.map((job) => (
-                    <li key={job.id}>{job.name}</li>
-                ))}
-            </ul>
+            <CollapsibleTable />
         </div>
     );
 };
